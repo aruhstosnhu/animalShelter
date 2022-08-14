@@ -9,8 +9,8 @@ The information within this database can act as a real-life example when maintai
 
 ## Tools
 
-DB Tool: MySQL Workbench 8.0
-Statistics Tool: SOFAstats v1.5.4
+- DB Tool: MySQL Workbench 8.0
+- Statistics Tool: SOFAstats v1.5.4
 
 ## Credentials
 
