@@ -7,7 +7,7 @@ You can also export the data from this table into data mining tools such as JMP 
 
 The information within this database can act as a real-life example when maintaining a patient database for an animal shelter
 
-** Tools
+## Tools
 
 DB Tool: MySQL Workbench 8.0
 Statistics Tool: SOFAstats v1.5.4
