@@ -14,5 +14,5 @@ The information within this database can act as a real-life example when maintai
 
 ## Credentials
 
-Author: Angela Ruhstorfer
+Author: Angela Ruhstorfer |
 SNHU CS 499: Computer Science Capstone
