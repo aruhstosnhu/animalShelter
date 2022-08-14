@@ -2,10 +2,10 @@
 
 ## Database Name: animalshelterdb
 
-This project includes the steps taken to create and query from a database named 'animalshelterdb'
+This project includes the steps taken to create and query from a database named 'animalshelterdb'.   
 You can also export the data from this table into data mining tools such as JMP and sofastats
 
-The information within this database can act as a real-life example when maintaining a patient database for an animal shelter
+The information within this database can act as a real-life example when maintaining a patient database for an animal shelter.
 
 ## Tools
 
