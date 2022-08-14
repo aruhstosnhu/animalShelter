@@ -1,6 +1,8 @@
 # animalShelter
 
-## Database Name: animalshelterdb
+## Description
+
+Database Name: animalshelterdb
 
 This project includes the steps taken to create and query from a database named 'animalshelterdb'.   
 You can also export the data from this table into data mining tools such as JMP and sofastats
